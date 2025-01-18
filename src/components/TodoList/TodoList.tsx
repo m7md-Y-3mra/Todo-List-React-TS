@@ -1,4 +1,4 @@
-import { useCallback, useMemo } from "react";
+import { useMemo } from "react";
 import TodoItem from "../TodoItem/TodoItem";
 import { todoItem } from "../../types";
 
